@@ -1,4 +1,5 @@
-
+## ¡Hola, soy Gustavo!
+### Tengo 19 años y estoy estudiando Ingeniería en Sistemas Computacionales en el Instituto Tecnológico de Mérida, Yucatán. Desde que estaba pequeño estaba enfocado en obtener buenas puntuaciones en la escuela, me gustaban las asignaturas en donde tenía que pensar, razonar, y no aprenderme de memoria las cosas, por eso no es de extrañar que una de mis asignaturas favoritas sea matemáticas, y ya luego me interé en la computación. Además de estudiar y aprender cosas nuevas e interesantes, tengo pasatiempos: ver series y películas especialmente las de acción, aventura, misterio, suspenso y romance, odio las de terror; me gusta mucho también la jardinería; leer, ya sean libros, o comics, o para especificar los webtoons. Estas son algunas de la cosas que más disfruto hacer, pero, por supuesto que también disfruto pasar tiempo con mi familia y cuidar de mis gatos. Esto es una breve descripción de lo que soy y de las cosas que hago.
 
 <!--
 **grafaelcarrillo/grafaelcarrillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
